@@ -1,9 +1,9 @@
 #!/usr/bin/with-contenv bash
 
-if [ ! -d /config/jackett ]; then
-  echo "Creating /config/jackett"
-  mkdir -p /config/jackett
-  chown -R abc:abc /config/jackett
+if [ ! -d /data/jackett ]; then
+  echo "Creating /data/jackett"
+  mkdir -p /data/jackett
+  chown -R abc:abc /data/jackett
 fi
 
 if [ ! -d /share/jackett ]; then

@@ -1,4 +1,4 @@
-# Hassio Add-ons by petersendev: jackett
+# Hassio Add-ons by PrimusNZ: jackett
 
 ## About
 

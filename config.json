@@ -1,6 +1,6 @@
 {
   "name": "Jackett",
-  "version": "0.33.2",
+  "version": "0.33.3",
   "slug": "jackett",
   "legacy": false,
   "init": false,
@@ -40,7 +40,7 @@
   },
   "environment": {
     "XDG_DATA_HOME": "/share/jackett",
-    "XDG_CONFIG_HOME": "/config/jackett"
+    "XDG_CONFIG_HOME": "/data/jackett"
   },
   "image": "ghcr.io/primusnz/hassio-addons/{arch}-jackett"
 }
