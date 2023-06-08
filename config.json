@@ -1,6 +1,6 @@
 {
   "name": "Jackett",
-  "version": "0.33.4",
+  "version": "0.33.5",
   "slug": "jackett",
   "legacy": false,
   "init": false,

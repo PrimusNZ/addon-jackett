@@ -3,11 +3,11 @@
 if [ ! -d /share/jackett/config ]; then
   echo "Creating /share/jackett/config"
   mkdir -p /share/jackett/config
-  chown -R abc:abc /data/jackett/config
+  chown -R abc:abc /share/jackett/config
 fi
 
 if [ ! -d /share/jackett/data ]; then
   echo "Creating /share/jackett/data"
   mkdir -p /share/jackett/data
-  chown -R abc:abc /data/jackett/data
+  chown -R abc:abc /share/jackett/data
 fi
