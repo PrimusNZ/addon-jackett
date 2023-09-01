@@ -1,6 +1,6 @@
 {
   "name": "Jackett",
-  "version": "0.33.5",
+  "version": "0.33.6",
   "slug": "jackett",
   "legacy": false,
   "init": false,
@@ -23,7 +23,6 @@
     "9117/tcp": "web interface"
   },
   "map": [
-    "config:rw",
     "share:rw",
     "ssl"
   ],
